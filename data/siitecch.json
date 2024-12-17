@@ -2,7 +2,7 @@
   "languages": [
     {
       "id": 1,
-      "name": "Web Development",
+      "name": "The Web",
       "slug": "overview",
       "description": "Web development is the process of building and creating websites or web applications. It’s like building a house, but instead of bricks and wood, you use code to make everything work.",
       "more": " A website is what you see when you open a browser, like Google or Facebook. A web application is more interactive, like an online game or an email app. Both of these are made through web development.",
